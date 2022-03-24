@@ -29,7 +29,7 @@
         font-family: font-family: 'Lato', sans-serif;
 font-family: 'Playfair Display', serif;
 font-family: 'Raleway', sans-serif;
-      
+      text-align:center;
         
       }
       /*blocks in center codes of margin */
@@ -95,15 +95,23 @@ padding: 2px;
         
 
       }
+   span#anuncio{
+     width:700px;
+   }
+   @media (max-width:480px){
+     span#anuncio{
+       width:80%;
+     }
+   }
       footer{
       background-color:#7900EB;
       height:140px;
       color:black;
       width:110%;
       margin-left: -20px;
-      margin-bottom:-15px;
+      margin-bottom:-30px;
       
       
     }
  
-    
+  
