@@ -83,18 +83,12 @@ box-sizing: content-box;
 width: 200px;
 border: solid #7900EB 2px;
 padding: 2px;
-     
        
         
         
       }
 
-      div.img{
-        text-align: center;
-        margin:-80px;
-        
-
-      }
+  
       footer{
       background-color:#7900EB;
       height:140px;
