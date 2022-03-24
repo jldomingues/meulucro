@@ -100,7 +100,7 @@ padding: 2px;
    }
    @media (max-width:480px){
      span#anuncio{
-       width:80%;
+       width:380px;
      }
    }
       footer{
