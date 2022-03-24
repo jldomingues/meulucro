@@ -95,14 +95,8 @@ padding: 2px;
         
 
       }
-   span#anuncio{
-     width:700px;
-   }
-   @media (max-width:480px){
-     span#anuncio{
-       width:80%;
-     }
-   }
+
+ 
       footer{
       background-color:#7900EB;
       height:140px;
