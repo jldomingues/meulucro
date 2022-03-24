@@ -1,5 +1,4 @@
-
-    div.center{
+div.center{
      text-align: center;
     }
     p{
@@ -39,8 +38,8 @@ font-family: 'Raleway', sans-serif;
     margin-right: auto;
     
     /*theend */
-    width: 6em
-        border: solid 2px black;
+    width: 6em;
+       
         background-color: #7900EB;
        
         font-size: 20px;
@@ -87,7 +86,11 @@ padding: 2px;
         
         
       }
-
+div.propaganda{
+  margin-left: auto;
+    margin-right: auto;
+    width: -1em;
+}
   
       footer{
       background-color:#7900EB;
