@@ -1,4 +1,7 @@
-# Meu_Lucro
+# Meu_Lucro 💵💵
+
+Status:Quase Finalizado 👷
+
 Olá tudo bem
 bem vindo ao meu primeiro projeto original
 em Javascript, essa aplicação foi criada para 
@@ -11,4 +14,5 @@ algo que funcione usando sua própria lógica,
 criatividade e design é muito gratidicante , espero
 Que gostem e utilizem minha aplicação .
 
-
+Acesse a aplicação pelo site :
+https://jldomingues.github.io/meulucro/
