@@ -1,26 +1,81 @@
+  /*Bloco de cima*/
+  
+  #curriculum{
+  border:solid 2px #363636;
+  background-color:#7900EB;
+  margin-top: 10px;
+  width: 150%;
+  margin-left:-75%!important;
+  font-size:35px!important;
+  position:fixed!important;
+  top: -10px;
+  display:inline-block;
+  color:white;
+  text-decoration: none;
+  text-align: center;
+  font-size: 15px;
+  margin-left: 180px;
+  
+}
+}
+/* usei h7 para não abrir outra div e não atrapalhar o estilo do link*/
+/*h7 responsável pelas letras do bloco curriculum*/
+h7{
+  margin-left:80%;
+  color:white;
+  text-decoration: none;
+  font-size: 15px;
+  position:absolute;
+  text-align: center;
+  display:inline-block;
+  
+ 
+}
+  a{
+   color:white;
+   font-size: 20px;
+   color:black;
+   
+  }
+  /*mídia query tamanho da fonte do bloco curriculum*/
+  @media(max-width:480px){
+    a{
+      font-size: 8px;
+    }
+  }
+/*valor de compra*/
+div.nomes {
+  margin-left: 2px;
+
+}
+
+
 div.center{
      text-align: center;
     }
     p{
       margin-top:-10px;
     }
-    div.nomes{
-      margin-left: 2px;
+ /*título do site*/
+ div.title{
+           margin-left: auto;
+    margin-right: auto;
+       font-size: 40px ;
+       color:#7900EB;
+box-sizing: content-box;
+width: 200px;
+border: solid #7900EB 2px;
+padding: 2px;
      
-    }
-  
+      }
+      
       input{
         
     font-size: 20px;
     width:346px;
     margin:2px;
       }
-      footer{
-        color:white;
-        font-size: 15px;
-        text-align: center;
-        margin-top: 50px;
-      }
+      
       body{
         
         color:#eeeeee;
@@ -48,14 +103,14 @@ font-family: 'Raleway', sans-serif;
         height:30px;
        
       }
-     
+     /*segunda cor ao passar o mouse*/
       div.blocos:hover{
         background-color: lightgrey;
        
       }
      
      
-      
+     /*Div de resultado para o js*/
       #res{
         
     
@@ -73,21 +128,9 @@ font-family: 'Raleway', sans-serif;
        
        
       }
-      div.title{
-           margin-left: auto;
-    margin-right: auto;
-       font-size: 40px ;
-       color:#7900EB;
-box-sizing: content-box;
-width: 200px;
-border: solid #7900EB 2px;
-padding: 2px;
-     
-       
-        
-        
-      }
-
+      
+      
+/*Img svg*/
 #desenho{
   margin-top: -380px;
 }
@@ -103,13 +146,14 @@ padding: 2px;
       
       
     }
+    /*mídia query do rodapé*/
  @media(max-width:400px){
    footer{
    background-color:#7900EB;
       height:200px;
       color:black;
       width:120%;
-      margin-left: -20px;
+     
       margin-top:150px;
  }
   
