@@ -36,6 +36,7 @@ h7{
    font-size: 20px;
    color:black;
    
+   
   }
   /*mídia query tamanho da fonte do bloco curriculum*/
   @media(max-width:480px){
